@@ -73,7 +73,29 @@ Short overview of the basics of jQuery and online resources:
 ## Final Project Overview
 
 - Go over the final project description
-- Discuss GitHub workflow in teams
+- GitHub workflow in teams
 - GitHub Issues & Projects are the best way to organize your project work
+
+### Project Ideas
+1. Pick your 401
+  - Should incorporate Indeed somehow
+  - Charting and KPIs would be huge
+1. Meal tracker
+1. Snake game
+1. Rush hour game
+1. GH practice (scoped)
+  - Help doc/man page integration
+  - instead of one input field - multiple - or fridge magnets
+1. Resume Linter
+1. Fridge Magnets!
+1. Dungeon Crawler
+1. Pictionary
+1. Earthquake Dashboard
+1. Todo App
+1. Shopping Cart
+
+
+1. Dog Matcher
+1. Your own Galaxy
 
 [-top-](#top)
