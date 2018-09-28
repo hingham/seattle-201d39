@@ -29,7 +29,7 @@ div, span {
 
 /* Styling here applies to all "p" tags that are inside of a "div" */
 div p {
-    background: #eee;
+    background: #ccc;
     padding: 10px;
 }
 

@@ -6,6 +6,7 @@ header {
     width: 100%;
     top: 0;
     left: 0;
+    z-index: 20;
 }
 
 section {
@@ -24,8 +25,8 @@ section {
     border: 1px solid #fff;
     height: 175px;
     position: absolute;
-    top: 50px;
     right: 50px;
+    top: 50px;
     width: 200px;
     z-index: 10;
 }
@@ -34,21 +35,20 @@ section {
     background: #fff;
     border: 1px solid black;
     height: 125px;
-    position: absolute;
-    top: 50px;
+    position: relative;
     right: 50px;
+    top: 70px;
 }
 
 .image-container {
-    /* background: url(baldy.png) center center no-repeat; */
+    /* background: #ccc url(baldy.png) center center no-repeat; */
     background: #ccc;
     border: 1px solid #111;
     margin: 125px auto;
-    height: 200px;
     width: 50%;
 }
 
 img {
-    max-height: 100%;
-    max-width: 100%;
+    min-height: 100%;
+    min-width: 100%;
 }
